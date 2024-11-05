@@ -15,7 +15,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/itel/itel-A16-Plus/device.mk)
 
 PRODUCT_DEVICE := itel-A16-Plus
-PRODUCT_NAME := twrp_itel-A16-Plus
+PRODUCT_NAME := twrp_A16Plus
 PRODUCT_BRAND := Itel
 PRODUCT_MODEL := itel A16 Plus
 PRODUCT_MANUFACTURER := itel

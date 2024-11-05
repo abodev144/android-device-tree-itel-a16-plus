@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_itel-A16-Plus.mk
+    $(LOCAL_DIR)/twrp_itel-A16-Plus.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_itel-A16-Plus-user \
-    omni_itel-A16-Plus-userdebug \
-    omni_itel-A16-Plus-eng
+    twrp_itel-A16-Plus-user \
+    twrp_itel-A16-Plus-userdebug \
+    twrp_itel-A16-Plus-eng

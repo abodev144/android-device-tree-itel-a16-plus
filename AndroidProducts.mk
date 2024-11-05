@@ -10,4 +10,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_itel-A16-Plus.mk
 
 COMMON_LUNCH_CHOICES += \
-    twrp_itel-A16-Plus-eng
+    twrp_itel-A16-Plus-eng \
